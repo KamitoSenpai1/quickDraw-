@@ -1,0 +1,1 @@
+Consolog.log("yes")
